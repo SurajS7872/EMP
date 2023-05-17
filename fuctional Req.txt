@@ -1,0 +1,19 @@
+SRS for employee Recruitment System:
+
+Fuctional Requirement :
+1.Functional Requirements
+1)Job Posting
+
+2)Candidate Application Management
+
+3)Candidate Evaluation and Selection
+
+4)Interview Scheduling and Management
+
+5)Reporting and Analyticss the number of job postings, applications received, candidate evaluation results, and time-to-hire.
+
+6)Integration with HR Systems
+
+7)User Roles and Permissions
+
+8)Security and Data Privacy
